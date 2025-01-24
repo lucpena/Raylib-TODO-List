@@ -1,4 +1,6 @@
+// To run on Linux, after Raylib is configured and Raygui.h is on the same folder:
 // g++ main.cpp -o main -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./main
+
 #define RAYGUI_IMPLEMENTATION
 
 #include "raylib.h"
